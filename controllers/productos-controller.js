@@ -9,7 +9,7 @@ const nuevoProducto = (name, price, imageUrl, id, section) => {
             <div class="producto__cuerpo">
               <h1 class="product-name"> ${name} </h1>
               <p class="precio">${formatPrice(price)}</p>
-              <a class="ver-producto" href="screens/producto.html?id=${id}">Ver Producto</a>
+              <a class="ver-producto" href="../screens/producto.html?id=${id}">Ver Producto</a>
             </div>
         </div>   
     `;
