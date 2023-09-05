@@ -1,0 +1,172 @@
+{
+  "producto": [
+    {
+      "id": 1,
+      "name": "Menú en Google Sheets",
+      "imageUrl": "https://img.youtube.com/vi/KgXFMW-G3Mg/maxresdefault.jpg",
+      "price": "165846.9",
+      "alt": "Product",
+      "description": "Aprende a crear menús personalizados, que muestren opciones personalizados por tipo de usuario en Google Sheets mediante Google Apps Script.",
+      "section": "Google Sheets"
+    },
+    {
+      "id": 2,
+      "name": "Menú interactivo en Excel",
+      "imageUrl": "https://img.youtube.com/vi/d3ZWHQkBYqk/maxresdefault.jpg",
+      "price": "100.00",
+      "description": "Aprende a crear un menú de navegación bastante atractivo e interactivo, para que puedas movilizarte con más facilidad en tus proyectos de Excel.",
+      "section": "Microsoft Excel"
+    },
+    {
+      "id": 3,
+      "name": "La firma es demasiado larga",
+      "imageUrl": "https://img.youtube.com/vi/n1CfL9BNWVY/maxresdefault.jpg",
+      "price": "5",
+      "description": "Te topaste con este problema y no encuentras la solución, dele fin a este problema. En este video te mostraré diferentes soluciones con el que podrás liberarte de este molestoso problema.",
+      "section": "Gmail"
+    },
+    {
+      "id": 4,
+      "name": "Filtrar en rangos protegidas",
+      "imageUrl": "https://img.youtube.com/vi/uAgJbAwMO00/maxresdefault.jpg",
+      "price": "16845",
+      "description": "En este video daremos solución al problema de no poder filtrar los datos en archivos protegidos en Google Sheets, esta herramienta permite que cada usuario aplique filtros individuales sin afectar el archivo original y sin afectar a los demás usuarios.",
+      "section": "Google Sheets"
+    },
+    {
+      "id": 5,
+      "name": "Enviar correo desde sheet",
+      "imageUrl": "https://img.youtube.com/vi/SiXSup-Cv5g/maxresdefault.jpg",
+      "price": "1652",
+      "description": "En este video aprendemos a enviar correo desde una cuenta de Gmail, mediante Google Apps Script con el apoyo de Google Sheets.",
+      "section": "Google Sheets"
+    },
+    {
+      "id": 6,
+      "name": "Proteger rango por usuario ",
+      "imageUrl": "https://img.youtube.com/vi/1i_r7pcjyD8/maxresdefault.jpg",
+      "price": "20",
+      "description": "En este video aprenderás establecer permisos en una hoja para cada usuario por columnas o rangos en Google Sheets mediante Google Apps Script. De esta manera podrás mejorar las protecciones de tus trabajos colaborativos.",
+      "section": "Google Sheets"
+    },
+    {
+      "id": 7,
+      "name": "Vectorizar con photoshop",
+      "imageUrl": "https://img.youtube.com/vi/caNPeJ75xwo/maxresdefault.jpg",
+      "price": "25",
+      "description": "Aprende a vectorizar una imagen en menos de un minuto con la herramienta Photoshop y crear una forma personalizada.",
+      "section": "Photoshop"
+    },
+    {
+      "id": 8,
+      "name": "carrusel de imágenes",
+      "imageUrl": "https://img.youtube.com/vi/15luvKBW-tY/maxresdefault.jpg",
+      "price": "25",
+      "description": "Ie7VtXQ40So",
+      "section": "Variado"
+    },
+    {
+      "id": 9,
+      "name": "Colores de dos imagenes",
+      "imageUrl": "https://img.youtube.com/vi/F-qsA0ffqS4/maxresdefault.jpg",
+      "price": "25.99",
+      "description": "",
+      "section": "Photoshop"
+    },
+    {
+      "id": 10,
+      "name": "Firma para Outlook y Gmail ",
+      "imageUrl": "https://img.youtube.com/vi/Jwa5581bBLw/maxresdefault.jpg",
+      "price": "60",
+      "description": "50",
+      "section": "Gmail"
+    },
+    {
+      "id": 11,
+      "name": "Mostrar varias hojas",
+      "imageUrl": "https://img.youtube.com/vi/T_d3yIsx468/maxresdefault.jpg",
+      "price": "30",
+      "description": "Aprende a trabajar con dos o mas hojas al mismo tiempo de forma sincronizada en Excel.",
+      "section": "Variado"
+    },
+    {
+      "id": 12,
+      "name": "Rayos de luz en un retrato",
+      "imageUrl": "https://img.youtube.com/vi/_n-lLm2L5jw/maxresdefault.jpg",
+      "price": "50",
+      "description": "",
+      "section": "Photoshop"
+    },
+    {
+      "id": 13,
+      "name": "Checklist interactivo",
+      "imageUrl": "https://img.youtube.com/vi/4xXw47PlqIU/maxresdefault.jpg",
+      "price": "50",
+      "description": "Aprende a crear un Checklist para poder llevar el control de cumplimiento de las actividades que realizar con Excel, este proceso te permitirá agilizar tu control.",
+      "section": "Microsoft Excel"
+    },
+    {
+      "id": 14,
+      "name": "Autoajustar texto de celdas",
+      "imageUrl": "https://img.youtube.com/vi/6eUgJy_PuuM/maxresdefault.jpg",
+      "price": "80",
+      "description": "Como ajustar automática los datos de las celdas al cambiar el ancho de la columna y no se dañe.",
+      "section": "Microsoft Excel"
+    },
+    {
+      "id": 15,
+      "name": "Carpetas masivas",
+      "imageUrl": "https://img.youtube.com/vi/vD9AU8418NM/maxresdefault.jpg",
+      "price": "85",
+      "description": "",
+      "section": "Microsoft Excel"
+    },
+    {
+      "id": 16,
+      "name": "Carátula de archivos PDF",
+      "imageUrl": "https://img.youtube.com/vi/_1SpaZ03QJc/maxresdefault.jpg",
+      "price": "60",
+      "description": "Aquí te enseño como habilitar la visualización de las miniaturas o carátulas de los archivos PDF, este proceso es válido para cuando tengas instalado Foxit Reader o Foxit Phantome como programa predeterminado.",
+      "section": ""
+    },
+    {
+      "id": 17,
+      "name": "Borrar el contenido/formato",
+      "imageUrl": "https://img.youtube.com/vi/-1Ed908ShaA/maxresdefault.jpg",
+      "price": "16",
+      "description": "En este interesante video aprenderemos a borrar el contenido y formato de (una hoja, de un rango y de una celda) ESPECÍFICO, en Google Sheets mediante los servicios de Google Apps Script.",
+      "section": ""
+    },
+    {
+      "id": 18,
+      "name": "Peliminar fondo verde",
+      "imageUrl": "https://img.youtube.com/vi/6K3-JisVSiY/maxresdefault.jpg",
+      "price": "65",
+      "description": "En este video aprenderás a quitar el fondo verde de cualquier video, para que así puedas agregarle cualquier fondo o efecto mediante Adobe Premiere Pro.",
+      "section": "Premiere"
+    },
+    {
+      "id": 19,
+      "name": "cambiar color de las filas",
+      "imageUrl": "https://img.youtube.com/vi/WYHs4cIV5OA/maxresdefault.jpg",
+      "price": "1654",
+      "description": "Aprende a colorear las filas de acuerdo al valor de una celda, con este proceso puedes personalizar los colores de fondo, borde, formato de texto y mucho más.",
+      "section": "Variado"
+    },
+    {
+      "id": 20,
+      "name": "Efecto Glicht",
+      "imageUrl": "https://img.youtube.com/vi/9bsWIXuh6mw/maxresdefault.jpg",
+      "price": "186.8",
+      "description": "En este video aprenderás a crear el Efecto Glicht haciendo uso de la herramienta Photoshop de una forma muy sencilla.",
+      "section": "Photoshop"
+    },
+    {
+      "name": "Efecto de Doble Exposición",
+      "imageUrl": "https://img.youtube.com/vi/UaYm5_I8VgU/maxresdefault.jpg",
+      "price": "50",
+      "section": "Variado",
+      "id": 21
+    }
+  ]
+}
